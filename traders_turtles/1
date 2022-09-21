@@ -1,0 +1,11 @@
+{
+    "name": "Crush",
+    "description": "Crush is a character in Finding Nemo. He is a green sea turtle who speaks in the manner of a surfer dude.",
+    "size": "Medium",
+    "defence": 3,
+    "attack": 20,
+    "speed": "4 Flight, 26 Walk",
+    "health": 300,
+    "artist": "Nemo",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLf2JzLk7gxxEbgG37MG_iy98eDjD9ZHfGUbsY7P-vhw&s"
+}
