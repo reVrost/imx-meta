@@ -1,11 +1,11 @@
 {
     "name": "Turtle",
-    "description": "Turtle(Umigame) is Master Roshis friend and long-time companion. The good-natured, lovable turtle lives in Kame House with the elderly hermit.",
+    "description": "Turtle (Umigame) is Master Roshis friend and long-time companion. The good-natured turtle lives in Kame House with the elderly hermit.",
     "size": "Medium",
     "defence": 3,
     "attack": 20,
     "speed": "4 Flight, 26 Walk",
     "health": 300,
     "artist": "DBZ",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/b/bf/Turtles.png/revision/latest?cb=20091118163123",
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/b/bf/Turtles.png/revision/latest?cb=20091118163123"
 }
