@@ -1,0 +1,11 @@
+{
+    "name": "Giga Bowser",
+    "description": "Giga Bowser is the true final boss of Adventure mode in Super Smash Bros.", 
+    "size": "Medium",
+    "defence": 3,
+    "attack": 20,
+    "speed": "4 Flight, 26 Walk",
+    "health": 300,
+    "artist": "Mario",
+    "image_url": "https://mario.wiki.gallery/images/thumb/8/8e/Giga_Bowser_SSBU_artwork.png/440px-Giga_Bowser_SSBU_artwork.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Master Roshi",
+    "description": "Master Roshi (武む天てん老ろう師し Muten Rōshi, lit. "Old Heavenly Martial Arts Master"), also known as the Turtle Hermit (亀かめ仙せん人にん Kame Sen'nin) (or Turtle ( Kame)[6] in his youth) and God of Martial Arts (武道の神様 Budō no Kami-sama), is a perverted hermit and a master of martial arts.",
+    "size": "Medium",
+    "defence": 3,
+    "attack": 20,
+    "speed": "4 Flight, 26 Walk",
+    "health": 300,
+    "artist": "DBZ",
+    "image_url": "https://static.wikia.nocookie.net/dragonuniverse/images/4/4b/KameseninDokkan.png/revision/latest/scale-to-width-down/250?cb=20161001014019"
+}

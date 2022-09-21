@@ -1,0 +1,11 @@
+{
+    "name": "Koopa",
+    "description": "Koopa Troopas, known in Japan as Nokonoko, are fictional footsoldiers of the turtle-like Koopa race from the Mario media franchise.",
+    "size": "Medium",
+    "defence": 3,
+    "attack": 20,
+    "speed": "4 Flight, 26 Walk",
+    "health": 300,
+    "artist": "Mario",
+    "image_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/new-super-mario-bros-u/a/a5/New-Super-Mario-Bros.-Game-Character-Official-Artwork-Koopa-Troopa.jpeg"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Squirtle",
+    "description": "Squirtle is a small reptilian Pokémon that resembles a light-blue turtle. While it typically walks on its two short legs, it has been shown to run on all fours in Super Smash Bros. Brawl. It has large, purplish or reddish eyes and a slightly hooked upper lip.",
+    "size": "Medium",
+    "defence": 3,
+    "attack": 20,
+    "speed": "4 Flight, 26 Walk",
+    "health": 300,
+    "artist": "Pokemon",
+    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
+}
