@@ -1,0 +1,12 @@
+
+{
+    "name": "Michaelangelo",
+    "description": "Michelangelo, nicknamed Mike or Mikey, is a superhero and one of the four main characters of the Teenage Mutant Ninja Turtles comics and all related media.", 
+    "size": "Medium",
+    "defence": 3,
+    "attack": 20,
+    "speed": "4 Flight, 26 Walk",
+    "health": 300,
+    "artist": "Ninja Turtle",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Michelangelo_%28Teenage_Mutant_Ninja_Turtles%29.jpg/250px-Michelangelo_%28Teenage_Mutant_Ninja_Turtles%29.jpg"
+}
